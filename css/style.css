@@ -1,0 +1,11 @@
+.conteiner{
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+button{
+    margin-left: 30px;
+    margin-right: 30px;
+}
